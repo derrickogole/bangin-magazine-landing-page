@@ -1,0 +1,133 @@
+/* Body */
+
+body {
+  margin: 0px;
+  background-color: #eeeeee;
+}
+
+.issue-1 {
+  color: #e2001a;
+  font-family: bebas-neue, sans-serif;
+  font-size: 75px;
+  line-height: 125px;
+  font-style: normal;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Navigation */
+
+.nav {
+  padding: 0 45px;
+}
+
+.nav-list {
+  padding: 0;
+}
+
+.nav-item {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+.nav ul {
+  text-align: right;
+}
+
+.nav li {
+  display: inline-block;
+  text-align: right;
+}
+
+.nav a {
+  display: block;
+  color: #e2001a;
+  text-decoration: none;
+  padding: 0 8px;
+  text-transform: uppercase;
+}
+
+/* Logo  */
+
+.bangin-magazine-logo {
+  display: block;
+  margin: 100px auto 120px auto;
+  width: 500px;
+  height: auto;
+}
+
+/* Magazine */
+
+.bangin-magazine-feature {
+  margin-left: 400px;
+  margin-bottom: 150px;
+  display: flex;
+}
+
+.bangin-magazine-feature-image {
+  width: 750px;
+  height: auto;
+}
+
+.bangin-magazine-feature-description {
+  margin-top: 110px;
+  margin-left: 20px;
+}
+
+.current-issue {
+  font-family: "Bebas Neue", cursive;
+  font-size: 125px;
+  line-height: 125px;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0px;
+  color: #222222;
+}
+
+.issue-1 {
+  font-family: "Bebas Neue", cursive;
+  font-size: 125px;
+  line-height: 125px;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-left: 0px;
+  margin-bottom: 0;
+  color: #222222;
+}
+
+.read-now {
+  font-family: "Bebas Neue", cursive;
+  font-size: 50px;
+  letter-spacing: 0;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-left: 15px;
+  color: #222222;
+}
+
+/* Footer */
+
+.footer-container {
+  background: #222222;
+}
+
+.copyright-text {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: 18px;
+  font-weight: 500;
+  font-style: normal;
+  text-transform: none;
+  text-align: center;
+  color: #a3a2a2;
+  padding: 25px;
+  margin: 0px;
+}
