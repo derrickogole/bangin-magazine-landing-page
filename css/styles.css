@@ -114,9 +114,17 @@ body {
 
 /* Featuring */
 
-.featuring-container {
+/* .featuring-container {
   display: flex;
   justify-content: left;
+  align-items: center;
+  background-color: #e2001a;
+  padding: 200px 0;
+} */
+
+.featuring-container {
+  display: flex;
+  justify-content: center;
   align-items: center;
   background-color: #e2001a;
   padding: 200px 0;
